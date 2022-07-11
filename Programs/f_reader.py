@@ -30,7 +30,7 @@ def read_fasta(filename):
 	fp.close()
 
 
-def read_gff(filename, feat_type):
+def read_gff(filename, feat_type, check_source, source=""):
 	fp = None
 	if filename == "-":
 		fp = sys.stdin
@@ -42,6 +42,8 @@ def read_gff(filename, feat_type):
 	seqid = None
 	features = []
 	for line in fp.readlines():
+		if line[0] == "#":
+			continue
 		field = line.split()
 		if not field[0] == seqid:
 			if len(features) > 0:
@@ -51,7 +53,11 @@ def read_gff(filename, feat_type):
 			else:
 				seqid = field[0]
 
-		if field[1] == "WormBase" and field[2] == feat_type:
+		correct_source = True
+		if check_source and source != field[1]:
+			correct_source = False
+
+		if correct_source and field[2] == feat_type:
 			feat_info = [
 				int(field[3]) - 1,  # start, with offset from GFF file
 				int(field[4]),  # end
@@ -98,3 +104,28 @@ def read_ortholog(filename):
 
 	yield (name, orthologs)
 	fp.close()
+
+
+def seq_to_wbgene(filename, seqs):
+
+	fp = None
+	if filename == "-":
+		fp = sys.stdin
+	elif filename.endswith(".gz"):
+		fp = gzip.open(filename, "rt")
+	else:
+		fp = open(filename)
+
+	wb_list = []
+	for line in fp.readlines():
+		field = line.split(",")
+
+		# sequence name is the identifier from the sequence
+		wb, public, seq_name = field[1], field[2], field[3]
+		if seq_name in seqs:
+			wb_list.append((seq_name, wb))
+
+	fp.close()
+
+	# wb_genes returns genes in shuffled order, not corresponding to seq_gene order
+	return wb_list
