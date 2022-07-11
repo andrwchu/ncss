@@ -1,6 +1,6 @@
 import sys
 import gzip
-
+from extract_intron import Feature
 
 def read_fasta(filename):
 
@@ -44,6 +44,7 @@ def read_gff(filename, feat_type, check_source, source=""):
 	for line in fp.readlines():
 		if line[0] == "#":
 			continue
+
 		field = line.split()
 		if not field[0] == seqid:
 			if len(features) > 0:
@@ -62,9 +63,12 @@ def read_gff(filename, feat_type, check_source, source=""):
 				int(field[3]) - 1,  # start, with offset from GFF file
 				int(field[4]),  # end
 				field[6] == "+",  # strand direction, fwd = True
-				field[8],
-			]
-			features.append(feat_info)
+				field[8], # info
+				None,
+				None,
+				None
+			)
+			features.append(feat)
 
 	yield (seqid, features)
 	fp.close()

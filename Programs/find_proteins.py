@@ -70,11 +70,12 @@ if __name__ == "__main__":
 	)
 	arg = parser.parse_args()
 
-	genes_list = []
-	for fields in extract_intron.extract_intron(arg.fa, arg.gff, 4, 5):
-		genes_list.append(fields[0])
+
+	genes_list = set()
+	for fields in extract_intron.extract_intron(arg.fa, arg.gff):
+		genes_list.add(fields.gene)
 
 	cds = extract_cds(arg.gff, genes_list)
-	for protein in cds_to_protein(arg.fa, cds):
-		print(f">{protein[0]} {protein[1]}")
-		print(protein[2])
+	for seqid, gene, protein in cds_to_protein(arg.fa, cds):
+		print(f">{seqid} {gene}")
+		print(protein)

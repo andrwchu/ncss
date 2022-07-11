@@ -1,4 +1,5 @@
 import argparse
+from dataclasses import dataclass
 import f_reader
 import bio_lib
 
