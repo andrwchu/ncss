@@ -72,8 +72,8 @@ if __name__ == "__main__":
 
 
 	genes_list = set()
-	for fields in extract_intron.extract_intron(arg.fa, arg.gff):
-		genes_list.add(fields.gene)
+	for fields in extract_intron.extract_intron(arg.fa, arg.gff, 4, 5):
+		genes_list.add(fields[0])
 
 	cds = extract_cds(arg.gff, genes_list)
 	for seqid, gene, protein in cds_to_protein(arg.fa, cds):

@@ -1,5 +1,4 @@
 import argparse
-from dataclasses import dataclass
 import f_reader
 import bio_lib
 
@@ -18,8 +17,7 @@ def extract_intron(fa, gff, field_start, field_end):
 
 			feat_list = features[fa_seqid]  # retrieve features list from dictionary
 
-			for i in range(len(feat_list)):
-				feat = feat_list[i]
+			for feat in feat_list:
 				start, end = feat[0], feat[1]
 				fwd = feat[2]
 
@@ -60,5 +58,5 @@ if __name__ == "__main__":
 	)
 	arg = parser.parse_args()
 
-	for fields in extract_intron(arg.fa, arg.gff, 0, 7):
+	for fields in extract_intron(arg.fa, arg.gff, 0, 3):
 		print(fields)
