@@ -49,7 +49,7 @@ def cds_to_protein(fa, cds_dict):
 					else:
 						cds_seq += feat_seq
 
-				yield (fa_seqid, gene, bio_lib.translate(cds_seq))
+				yield (gene, bio_lib.translate(cds_seq))
 
 
 if __name__ == "__main__":
@@ -70,12 +70,18 @@ if __name__ == "__main__":
 	)
 	arg = parser.parse_args()
 
-
 	genes_list = set()
-	for fields in extract_intron.extract_intron(arg.fa, arg.gff, 4, 5):
-		genes_list.add(fields[0])
+	introns = []
+	for fields in extract_intron.extract_intron(arg.fa, arg.gff, 0, 6):
+		genes_list.add(fields[4])
+		introns.append(fields)
 
 	cds = extract_cds(arg.gff, genes_list)
-	for seqid, gene, protein in cds_to_protein(arg.fa, cds):
-		print(f">{seqid} {gene}")
-		print(protein)
+	proteins = {}
+	for gene, protein in cds_to_protein(arg.fa, cds):
+		proteins[gene] = protein
+
+	for fields in introns:
+		gene = fields[4]
+		print(f'>{fields[0]}_{fields[1]}..{fields[2]}_{fields[3]}_{fields[4]}')
+		print(proteins[gene][:-1])

@@ -1,6 +1,8 @@
 import argparse
 import f_reader
 
+# p3 chunk_fasta.py --fa ../../datacore/genome_celegans/1pct_elegans.fa --c 1100 --o 100
+
 def gen_lens(start, end, chunk, overlap):
 	indices = []
 	for i in range(start, end, chunk - overlap):

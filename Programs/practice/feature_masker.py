@@ -1,6 +1,8 @@
 import argparse
 import f_reader
 
+# p3 feature_masker.py --fa ../../datacore/genome_celegans/1pct_elegans.fa --gff ../../datacore/genome_celegans/1pct_elegans.gff3 --feat exon -hm
+
 
 def mask_feature(fa, gff, feat_type, hard):
 	features = {}
@@ -47,10 +49,17 @@ if __name__ == "__main__":
 		help="required string argument",
 	)
 	parser.add_argument(
+		"--feat",
+		required=True,
+		type=str,
+		metavar="<str>",
+		help="required string argument",
+	)
+	parser.add_argument(
 		"--hm", default=False, action="store_true", help="optional boolean flag"
 	)
 	arg = parser.parse_args()
 
-	for header, seq in mask_feature(arg.fa, arg.gff, "exon", arg.hm):
+	for header, seq in mask_feature(arg.fa, arg.gff, arg.feat, arg.hm):
 		print(header)
 		print(seq)

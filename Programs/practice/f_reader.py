@@ -55,7 +55,6 @@ def read_gff(filename, feat_type, check_source, source=""):
 				seqid = field[0]
 
 		correct_source = True
-
 		if check_source and source != field[1]:
 			correct_source = False
 
@@ -131,25 +130,3 @@ def seq_to_wbgene(filename, seqs):
 
 	# wb_genes returns genes in shuffled order, not corresponding to seq_gene order
 	return wb_list
-
-def wb_to_seqgene(filename, wbgenes):
-	fp = None
-	if filename == "-":
-		fp = sys.stdin
-	elif filename.endswith(".gz"):
-		fp = gzip.open(filename, "rt")
-	else:
-		fp = open(filename)
-
-	seqgene_list = []
-	for line in fp.readlines():
-		field = line.split(",")
-
-		wb, public, seq_name = field[1], field[2], field[3]
-		if wb in wbgenes:
-			seqgene_list.append((wb, seq_name))
-
-	fp.close()
-
-	# wb_genes returns genes in shuffled order, not corresponding to seq_gene order
-	return seqgene_list

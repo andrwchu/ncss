@@ -6,7 +6,7 @@ from dataclasses import dataclass
 
 # p3 extract_intron.py --fa ../../datacore/genome_celegans/1pct_elegans.fa --gff ../../datacore/genome_celegans/1pct_elegans.gff3
 
-'''
+
 @dataclass
 class intron:
 	__slots__ = ("seqid", "beg", "end", "fwd", "ss", "seq", "gene", "cds", "protein")
@@ -19,7 +19,7 @@ class intron:
 	gene: str
 	cds: []
 	protein: str
-'''
+
 
 def extract_intron(fa, gff, field_start, field_end):
 	features = {}
