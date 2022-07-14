@@ -3,7 +3,7 @@ import re
 
 @dataclass
 class Intron:
-	__slots__ = ("seqid", "beg", "end", "fwd", "gene", "clean_gene", "wbgene", "ss", "seq", "orth_genes")
+	__slots__ = ("seqid", "beg", "end", "fwd", "gene", "clean_gene", "wbgene", "ss", "seq", "orth_genes", "orth_intrs")
 	seqid: str
 	beg: int
 	end: int
@@ -13,4 +13,5 @@ class Intron:
 	wbgene: str
 	ss: str
 	seq: str
-	orth_genes: [] # list of [worm, wbgene]
+	orth_genes: [] # list of lists, then dict of {worm : [wbgene1, wbgene2]}
+	orth_intrs: []

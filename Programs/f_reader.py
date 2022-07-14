@@ -1,5 +1,7 @@
 import sys
 import gzip
+import intron_class
+import re
 
 
 def read_fasta(filename):
@@ -60,19 +62,43 @@ def read_gff(filename, feat_type, check_source, source=""):
 			correct_source = False
 
 		if correct_source and field[2] == feat_type:
-			feat_info = [
+			feat = intron_class.Intron(
+				seqid,
 				int(field[3]) - 1,  # start, with offset from GFF file
 				int(field[4]),  # end
 				field[6] == "+",  # strand direction, fwd = True
 				field[8],  # info
-			]
-			features.append(feat_info)
+				None,
+				None,
+				None,
+				None,
+				[],
+				[],
+			)
+			features.append(feat)
 
 	yield (seqid, features)
 	fp.close()
 
 
-def read_ortholog(filename):
+def combine_orth(intr_orths):
+	# combine genes from the same species (list --> dict)
+	orth_dict = {}
+	for orth in intr_orths:
+		species = orth[0]
+		gene = orth[1]
+		if species not in orth_dict:
+			orth_dict[species] = []
+		orth_dict[species].append(gene)
+
+	intr_orths = orth_dict
+	if len(orth_dict.keys()) == 0:
+		intr_orths = None
+
+	return intr_orths
+
+
+def read_ortholog(filename, introns):
 	fp = None
 	if filename == "-":
 		fp = sys.stdin
@@ -81,8 +107,11 @@ def read_ortholog(filename):
 	else:
 		fp = open(filename)
 
+	wbgenes = set()
+	for intr in introns:
+		wbgenes.add(intr.wbgene)
+
 	name = None
-	orthologs = []
 	new_section = False
 	for line in fp:
 		if line[0] == "#":
@@ -91,24 +120,27 @@ def read_ortholog(filename):
 		field = line.split()
 		if new_section:
 			name = field[0]
-			orthologs = []
 			new_section = False
 		elif field[0] == "=":
 			new_section = True
-			if len(orthologs) > 0:
-				yield (name, orthologs)
+
 		else:
 			genus, species = field[0], field[1]
 			orth, public = field[2], field[3]
 			if orth[:6] == "WBGene":  # restricting to only WormBase (?)
 				orth_info = [genus + "_" + species, orth]
-				orthologs.append(orth_info)
-
-	yield (name, orthologs)
+				if name in wbgenes:
+					for intr in introns:
+						if name == intr.wbgene:
+							intr.orth_genes.append(orth_info)
 	fp.close()
 
+	for intr in introns:
+		intr.orth_genes = combine_orth(intr.orth_genes)
+	return introns
 
-def seq_to_wbgene(filename, seqs):
+
+def seq_to_wbgene(filename, introns):
 
 	fp = None
 	if filename == "-":
@@ -118,21 +150,29 @@ def seq_to_wbgene(filename, seqs):
 	else:
 		fp = open(filename)
 
-	wb_list = []
+	# this function passes the introns list in so that the wbgene stays associated with the the intron
+	# another way to to do this would be like with the wb_to_seqgene function
+	# which only exchanges the gene names through a dictionary
+	intr_genes = set()
+	for intr in introns:
+		gene = re.search("([\w]+\.[\d]+)", intr.gene).group(1)
+		intr_genes.add(gene)
+		intr.clean_gene = gene
+
 	for line in fp.readlines():
 		field = line.split(",")
-
 		# sequence name is the identifier from the sequence
 		wb, public, seq_name = field[1], field[2], field[3]
-		if seq_name in seqs:
-			wb_list.append((seq_name, wb))
+		if seq_name in intr_genes:
+			for intr in introns:
+				if seq_name == intr.clean_gene:
+					intr.wbgene = wb
 
+	return introns
 	fp.close()
 
-	# wb_genes returns genes in shuffled order, not corresponding to seq_gene order
-	return wb_list
 
-def wb_to_seqgene(filename, wbgenes):
+def wb_to_seqgene(filename, introns, target):
 	fp = None
 	if filename == "-":
 		fp = sys.stdin
@@ -141,15 +181,22 @@ def wb_to_seqgene(filename, wbgenes):
 	else:
 		fp = open(filename)
 
-	seqgene_list = []
+	# gather a set of all seqgenes under target species
+	wbgenes = set()
+	for intr in introns:
+		if intr.orth_genes is not None:
+			if target in intr.orth_genes:
+				wbgenes.update(intr.orth_genes[target])  # add list to set
+
+	genes = {}
 	for line in fp.readlines():
 		field = line.split(",")
 
 		wb, public, seq_name = field[1], field[2], field[3]
 		if wb in wbgenes:
-			seqgene_list.append((wb, seq_name))
+			genes[wb] = seq_name
 
 	fp.close()
 
 	# wb_genes returns genes in shuffled order, not corresponding to seq_gene order
-	return seqgene_list
+	return genes
