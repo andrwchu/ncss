@@ -32,7 +32,7 @@ def read_fasta(filename):
 	fp.close()
 
 
-def read_gff(filename, feat_type, check_source, source=""):
+def read_gff(filename, feat_type, species, check_source, source=""):
 	fp = None
 	if filename == "-":
 		fp = sys.stdin
@@ -63,6 +63,7 @@ def read_gff(filename, feat_type, check_source, source=""):
 
 		if correct_source and field[2] == feat_type:
 			feat = intron_class.Intron(
+				species,
 				seqid,
 				int(field[3]) - 1,  # start, with offset from GFF file
 				int(field[4]),  # end
