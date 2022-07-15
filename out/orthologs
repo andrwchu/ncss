@@ -1,0 +1,1361 @@
+>Caenorhabditis_elegans	I	183456..183506	Y48G1BL.2a.1	GCAG
+Caenorhabditis_briggsae	I	1756774..1757169	CBG22015.1	GTAA
+Caenorhabditis_japonica	Cjap.Contig17882	104824..104885	CJA09935.1	GCAG ***
+
+>Caenorhabditis_elegans	I	845761..845929	ZC123.4a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig421	23391..29245	CBN28570.1	GCAG ***
+
+>Caenorhabditis_elegans	I	1833408..1833450	C53H9.2a.1	GCAG
+Caenorhabditis_briggsae	I	2826292..2826334	CBG22213.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig2602	23559..23600	CJA05349.1	GCAG ***
+
+>Caenorhabditis_elegans	I	2377582..2377634	Y39G10AR.17.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17967	8140..8557	CJA10211.1	CAAG
+
+>Caenorhabditis_elegans	I	3943707..3943977	T21E3.3.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig3730	95..172	CBN28545.1	TTAG
+Caenorhabditis_brenneri	Cbre_Contig3730	1210..3715	CBN28545.1	CAAC
+Caenorhabditis_japonica	Cjap.Contig5144	83884..83934	CJA09442.1	GCAG ***
+
+>Caenorhabditis_elegans	I	4186712..4186769	C18E3.7c.1	ATAG
+Caenorhabditis_briggsae	V	12034427..12034473	CBG18907.1	GTTG
+
+>Caenorhabditis_elegans	I	5018925..5018983	F54C1.7.5	ATGC
+Caenorhabditis_japonica	Cjap.Contig16396	111982..112036	CJA12160.3	ATAG
+Caenorhabditis_japonica	Cjap.Contig16396	111989..112045	CJA12160.4	AACT
+Caenorhabditis_japonica	Cjap.Contig16396	112200..112252	CJA12160.2	TTTG
+
+>Caenorhabditis_elegans	I	5018926..5018982	F54C1.7.3	TGAG
+Caenorhabditis_japonica	Cjap.Contig16396	111982..112036	CJA12160.3	ATAG
+Caenorhabditis_japonica	Cjap.Contig16396	111989..112045	CJA12160.4	AACT
+Caenorhabditis_japonica	Cjap.Contig16396	112200..112252	CJA12160.2	TTTG
+
+>Caenorhabditis_elegans	I	5018926..5018983	F54C1.7.4	ATAG
+Caenorhabditis_japonica	Cjap.Contig16396	111982..112036	CJA12160.3	ATAG ***
+Caenorhabditis_japonica	Cjap.Contig16396	111989..112045	CJA12160.4	AACT
+Caenorhabditis_japonica	Cjap.Contig16396	112200..112252	CJA12160.2	TTTG
+
+>Caenorhabditis_elegans	I	5018926..5018989	F54C1.7.2	TTAG
+Caenorhabditis_japonica	Cjap.Contig16396	111982..112036	CJA12160.3	ATAG
+Caenorhabditis_japonica	Cjap.Contig16396	111989..112045	CJA12160.4	AACT
+Caenorhabditis_japonica	Cjap.Contig16396	112200..112252	CJA12160.2	TTTG
+
+>Caenorhabditis_elegans	I	5130868..5130917	Y110A7A.7.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18050	11530..11605	CJA07742.1	GTTC
+
+>Caenorhabditis_elegans	I	5182628..5182795	F56A3.3a.2	ATAA
+Caenorhabditis_japonica	Cjap.Contig18050	70656..70705	CJA13888.1	GCAG
+
+>Caenorhabditis_elegans	I	5199675..5199866	C32E12.2.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17749	4827..4877	CJA03376.1	GCAG ***
+
+>Caenorhabditis_elegans	I	5930537..5930651	B0207.5a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig119	235890..236091	CBN29478.1	GCAG ***
+
+>Caenorhabditis_elegans	I	5930537..5930651	B0207.5b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig119	235890..236091	CBN29478.1	GCAG ***
+
+>Caenorhabditis_elegans	I	6268815..6268867	C48E7.8.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17976	56449..57318	CJA14761.1	GCAG ***
+
+>Caenorhabditis_elegans	I	6287767..6288926	C10G11.7a.3	GTCA
+Caenorhabditis_japonica	Cjap.Contig17226	107145..110123	CJA12358.1	ATAG
+
+>Caenorhabditis_elegans	I	7224730..7224817	C01H6.7a.2	CGCC
+Caenorhabditis_japonica	Cjap.Contig17113	4750..5238	CJA17880.1	GCAG
+
+>Caenorhabditis_elegans	I	7528935..7528986	C26C6.3.1	GCAG
+Caenorhabditis_briggsae	I	344765..344807	CBG11886.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig78	264208..264259	CBN04723.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig3118	1040..1123	CJA38471.1	GCAG ***
+
+>Caenorhabditis_elegans	I	7676753..7676799	T24B1.1.1	GCAG
+Caenorhabditis_briggsae	I	465018..465060	CBG00309.1	CTAG
+
+>Caenorhabditis_elegans	I	7926338..7926417	F20G4.1.2	GCAG
+Caenorhabditis_brenneri	Cbre_Contig430	38067..38909	CBN28927.1	GCAG ***
+
+>Caenorhabditis_elegans	I	9487525..9487589	F30A10.5b.1	GTAT
+Caenorhabditis_briggsae	I	5821127..5821174	CBG24499.1	GCAG
+
+>Caenorhabditis_elegans	I	9487529..9487593	F30A10.5a.1	GCAG
+Caenorhabditis_briggsae	I	5821127..5821174	CBG24499.1	GCAG ***
+
+>Caenorhabditis_elegans	I	9565577..9566047	C36F7.4b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig351	114963..116032	CBN06276.1	GTTA
+
+>Caenorhabditis_elegans	I	9565577..9566047	C36F7.4c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig351	114963..116032	CBN06276.1	GTTA
+
+>Caenorhabditis_elegans	I	9565577..9566047	C36F7.4e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig351	114963..116032	CBN06276.1	GTTA
+
+>Caenorhabditis_elegans	I	9565577..9566047	C36F7.4f.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig351	114963..116032	CBN06276.1	GTTA
+
+>Caenorhabditis_elegans	I	9724952..9724998	C16C2.2a.1	GCAG
+Caenorhabditis_briggsae	I	5388774..5388822	CBG03814.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig6	1173156..1173204	CBN00399.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig333	86384..86432	CBN12831.1	GCAG ***
+
+>Caenorhabditis_elegans	I	10189166..10189991	C25A1.10b.1	GCAG
+Caenorhabditis_briggsae	I	8299699..8299789	CBG12223.2	AAAA
+Caenorhabditis_briggsae	I	8301160..8301358	CBG12223.1	AAAG
+Caenorhabditis_briggsae	I	8301160..8301358	CBG12223.2	AAAG
+
+>Caenorhabditis_elegans	I	10340869..10341173	ZC434.5.1	TTAG
+Caenorhabditis_brenneri	Cbre_Contig189	24379..24390	CBN30544.1	GCAG
+
+>Caenorhabditis_elegans	I	10346169..10346199	ZC434.7b.5	ATTC
+Caenorhabditis_briggsae	I	7925804..7925858	CBG21348.1	GGAG
+
+>Caenorhabditis_elegans	I	11128951..11129321	W02B9.1b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig10	781491..781538	CBN03512.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig10	763206..763601	CBN19553.1	TTCC
+Caenorhabditis_brenneri	Cbre_Contig446	21235..21678	CBN30886.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig446	39397..39569	CBN30886.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig17057	240542..240649	CJA20102.1	ATAA
+Caenorhabditis_japonica	Cjap.Contig17057	240652..241745	CJA20102.1	GTAC
+
+>Caenorhabditis_elegans	I	12298299..12298343	F56H6.7.1	ATAA
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA ***
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG
+
+>Caenorhabditis_elegans	I	12304156..12304199	F56H6.9.1	ATAA
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA ***
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG
+
+>Caenorhabditis_elegans	I	12408494..12408537	E03H4.4.1	ATAA
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA ***
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG
+
+>Caenorhabditis_elegans	I	12408616..12408662	E03H4.4.1	GCAG
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG ***
+
+>Caenorhabditis_elegans	I	13004330..13012840	CC4.3.2	TTAT
+Caenorhabditis_brenneri	Cbre_Contig10	383935..387872	CBN32467.1	GCAG
+
+>Caenorhabditis_elegans	I	15001388..15001574	ZK337.1b.1	GCAG
+Caenorhabditis_briggsae	I	14928005..14928238	CBG19756.1	GCAG ***
+
+>Caenorhabditis_elegans	II	139777..139840	K10B4.1.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig52	139414..139458	CBN08590.1	GCAG ***
+
+>Caenorhabditis_elegans	II	365170..365481	C41D7.2.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig52	192714..192745	CBN29991.1	GCAG ***
+
+>Caenorhabditis_elegans	II	365170..365481	C41D7.2.2	GCAG
+Caenorhabditis_brenneri	Cbre_Contig52	192714..192745	CBN29991.1	GCAG ***
+
+>Caenorhabditis_elegans	II	367426..367485	C41D7.2.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig52	192714..192745	CBN29991.1	GCAG ***
+
+>Caenorhabditis_elegans	II	808945..808989	F46F5.11.1	GCAG
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG ***
+
+>Caenorhabditis_elegans	II	936696..936740	R07C3.4.1	GTGG
+Caenorhabditis_brenneri	Cbre_Contig96	148839..148914	CBN06947.1	GCAG
+
+>Caenorhabditis_elegans	II	988973..989018	F45D11.10a.1	TTAG
+Caenorhabditis_briggsae	I	444256..444373	CBG00313.1	CACA
+
+>Caenorhabditis_elegans	II	1922582..1922631	F52C6.11.1	GCAG
+Caenorhabditis_briggsae	II	12464039..12464101	CBG19640.1	GCAG ***
+Caenorhabditis_briggsae	II	12452415..12452994	CBG19644.1	GCAG ***
+Caenorhabditis_briggsae	V	14817443..14817447	CBG04662.1	TAAA
+
+>Caenorhabditis_elegans	II	3912844..3912892	F53C3.1.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18087	5956..6001	CJA05735.1	GCAG ***
+
+>Caenorhabditis_elegans	II	4946617..4946633	ZK546.2b.2	CTCA
+Caenorhabditis_brenneri	Cbre_Contig20	246444..247369	CBN32433.1	GCAG
+
+>Caenorhabditis_elegans	II	4946740..4947062	ZK546.2b.2	CGTC
+Caenorhabditis_brenneri	Cbre_Contig20	246444..247369	CBN32433.1	GCAG
+
+>Caenorhabditis_elegans	II	5502494..5502542	ZK177.6.1	GCAG
+Caenorhabditis_briggsae	II	10218570..10218616	CBG02417.1	AGCA
+
+>Caenorhabditis_elegans	II	5502494..5502542	ZK177.6.2	GCAG
+Caenorhabditis_briggsae	II	10218570..10218616	CBG02417.1	AGCA
+
+>Caenorhabditis_elegans	II	5830102..5830186	ZK1248.13.1	GCAG
+Caenorhabditis_briggsae	II	9897467..9897563	CBG02510.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig800	6717..6810	CBN05333.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig69	459147..459240	CBN02208.1	GCAG ***
+
+>Caenorhabditis_elegans	II	6241740..6241795	T24H7.5a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig634	7229..7243	CBN32187.1	GCAG ***
+
+>Caenorhabditis_elegans	II	6241740..6241795	T24H7.5a.2	GCAG
+Caenorhabditis_brenneri	Cbre_Contig634	7229..7243	CBN32187.1	GCAG ***
+
+>Caenorhabditis_elegans	II	6460257..6460304	K06A1.6e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig1281	776..974	CBN13190.1	AAAG
+Caenorhabditis_brenneri	Cbre_Contig1281	998..3150	CBN13190.1	TACT
+
+>Caenorhabditis_elegans	II	6542068..6542114	C56E6.6.1	GCAG
+Caenorhabditis_briggsae	II	9184330..9184376	CBG02687.1	GCAG ***
+Caenorhabditis_briggsae	II	9184520..9184566	CBG02687.1	GCAG ***
+
+>Caenorhabditis_elegans	II	6664511..6664557	T19D12.2a.1	GCAG
+Caenorhabditis_briggsae	cb25.NA_131	2589..3363	CBG24276.1	GNAG
+
+>Caenorhabditis_elegans	II	6664511..6664557	T19D12.2a.2	GCAG
+Caenorhabditis_briggsae	cb25.NA_131	2589..3363	CBG24276.1	GNAG
+
+>Caenorhabditis_elegans	II	6968347..6968706	C15F1.5a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	46952..47331	CBN02591.1	GCAG ***
+
+>Caenorhabditis_elegans	II	6968347..6968706	C15F1.5b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	46952..47331	CBN02591.1	GCAG ***
+
+>Caenorhabditis_elegans	II	7074024..7074126	T02G5.8.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	135275..135345	CBN10207.1	GCAG ***
+
+>Caenorhabditis_elegans	II	7133546..7133590	T07F8.3a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	168600..168792	CBN19142.1	GCAG ***
+
+>Caenorhabditis_elegans	II	7133546..7133590	T07F8.3b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	168600..168792	CBN19142.1	GCAG ***
+
+>Caenorhabditis_elegans	II	7136711..7136755	T07F8.3a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	168600..168792	CBN19142.1	GCAG ***
+
+>Caenorhabditis_elegans	II	7609217..7609361	R07G3.2.1	GTAT
+Caenorhabditis_briggsae	II	6345699..6345827	CBG13009.1	GTAT ***
+Caenorhabditis_japonica	Cjap.Contig17060	33273..33410	CJA15836.1	GTAT ***
+Caenorhabditis_japonica	Cjap.Contig17060	33490..33546	CJA15836.1	TCTG
+Caenorhabditis_japonica	Cjap.Contig17060	33490..33546	CJA15836.2	TCTG
+
+>Caenorhabditis_elegans	II	7649886..7649929	R153.1e.2	TTGG
+Caenorhabditis_brenneri	Cbre_Contig66	731777..732383	CBN09682.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig66	732760..734056	CBN09682.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig82	191343..193983	CBN31167.1	GCAG
+
+>Caenorhabditis_elegans	II	8000241..8000288	DH11.3.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig1537	8060..8573	CBN30931.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig1537	9112..14725	CBN30931.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig175	46335..47150	CBN30138.1	GCAG ***
+
+>Caenorhabditis_elegans	II	8000241..8000288	DH11.3.2	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig1537	8060..8573	CBN30931.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig1537	9112..14725	CBN30931.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig175	46335..47150	CBN30138.1	GCAG ***
+
+>Caenorhabditis_elegans	II	8306657..8306708	F14F11.1h.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig50	142161..142634	CBN08298.1	GCAG ***
+
+>Caenorhabditis_elegans	II	8417980..8418023	F14E5.1.1	GCAG
+Caenorhabditis_briggsae	II	3857724..3857769	CBG00640.1	TTAG
+
+>Caenorhabditis_elegans	II	8667280..8667463	D2085.4.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig587	46337..46671	CBN01506.1	GTAT
+
+>Caenorhabditis_elegans	II	8802114..8802160	F07H5.8.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig132	382915..383089	CBN13074.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18187	203303..206035	CJA10343.1	CGAC
+
+>Caenorhabditis_elegans	II	8802331..8802379	F07H5.8.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig132	382915..383089	CBN13074.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18187	203303..206035	CJA10343.1	CGAC
+
+>Caenorhabditis_elegans	II	9187250..9188306	ZK1067.6a.1	GCAG
+Caenorhabditis_briggsae	II	750510..752491	CBG00908.1	GCAG ***
+Caenorhabditis_briggsae	II	755642..762656	CBG00908.1	CATA
+Caenorhabditis_brenneri	Cbre_Contig86	250419..250453	CBN11744.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig500	646..2374	CBN32196.1	GAAA
+Caenorhabditis_brenneri	Cbre_Contig500	2549..3260	CBN32196.1	AACG
+Caenorhabditis_brenneri	Cbre_Contig500	3436..10262	CBN32196.1	TAGC
+Caenorhabditis_brenneri	Cbre_Contig500	10427..11374	CBN32196.1	AAGC
+Caenorhabditis_brenneri	Cbre_Contig500	11613..11925	CBN32196.1	AAGT
+Caenorhabditis_brenneri	Cbre_Contig500	12375..13047	CBN32196.1	GAGT
+
+>Caenorhabditis_elegans	II	9597033..9597079	E02H1.6.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18264	125459..125476	CJA13303.1	TTTT
+
+>Caenorhabditis_elegans	II	10118668..10118713	ZK945.9.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig259	69866..70303	CBN12339.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig259	70809..71113	CBN12339.1	GCAG ***
+
+>Caenorhabditis_elegans	II	10333702..10334299	M02G9.1a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig144	23566..23630	CBN19943.1	ACAG
+
+>Caenorhabditis_elegans	II	10333702..10334299	M02G9.1b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig144	23566..23630	CBN19943.1	ACAG
+
+>Caenorhabditis_elegans	II	10333702..10334299	M02G9.1c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig144	23566..23630	CBN19943.1	ACAG
+
+>Caenorhabditis_elegans	II	10333702..10334299	M02G9.1e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig144	23566..23630	CBN19943.1	ACAG
+
+>Caenorhabditis_elegans	II	10333702..10334299	M02G9.1f.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig144	23566..23630	CBN19943.1	ACAG
+
+>Caenorhabditis_elegans	II	10333702..10334299	M02G9.1g.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig144	23566..23630	CBN19943.1	ACAG
+
+>Caenorhabditis_elegans	II	10645406..10645450	M28.4.1	GTGG
+Caenorhabditis_briggsae	II	7639829..7639875	CBG03046.1	GCAG
+Caenorhabditis_briggsae	II	7641272..7641321	CBG03046.1	GCAG
+
+>Caenorhabditis_elegans	II	10686613..10686755	D2089.4b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig28	867781..868080	CBN03297.1	GCAG ***
+
+>Caenorhabditis_elegans	II	10857513..10857531	M106.3a.2	TGTA
+Caenorhabditis_brenneri	Cbre_Contig28	739839..739888	CBN18240.1	GCAG
+
+>Caenorhabditis_elegans	II	13393669..13394343	Y48C3A.14a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig36	348676..348717	CBN32330.1	GCAG ***
+
+>Caenorhabditis_elegans	II	13393669..13394343	Y48C3A.14c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig36	348676..348717	CBN32330.1	GCAG ***
+
+>Caenorhabditis_elegans	II	13628676..13629034	F37B1.6.1	GTTA
+Caenorhabditis_japonica	Cjap.Contig1308	22946..23015	CJA16202.2	TGTC
+
+>Caenorhabditis_elegans	II	13630251..13630747	F37B1.6.1	TGAG
+Caenorhabditis_japonica	Cjap.Contig1308	22946..23015	CJA16202.2	TGTC
+
+>Caenorhabditis_elegans	II	14423596..14423640	K04B12.1.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig659	27085..27232	CBN31128.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18112	81303..81466	CJA03785.1	GTGT
+
+>Caenorhabditis_elegans	II	14424424..14424469	K04B12.1.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig659	27085..27232	CBN31128.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18112	81303..81466	CJA03785.1	GTGT
+
+>Caenorhabditis_elegans	II	14650279..14650325	ZC101.2d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig60	79189..80534	CBN06354.1	GCAG ***
+
+>Caenorhabditis_elegans	II	14650279..14650325	ZC101.2e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig60	79189..80534	CBN06354.1	GCAG ***
+
+>Caenorhabditis_elegans	II	14650279..14650325	ZC101.2g.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig60	79189..80534	CBN06354.1	GCAG ***
+
+>Caenorhabditis_elegans	II	14651210..14652682	ZC101.2d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig60	79189..80534	CBN06354.1	GCAG ***
+
+>Caenorhabditis_elegans	II	14651210..14652682	ZC101.2e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig60	79189..80534	CBN06354.1	GCAG ***
+
+>Caenorhabditis_elegans	II	14723809..14724845	C09F9.3a.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17729	49766..50700	CJA13247.1	GCAG ***
+
+>Caenorhabditis_elegans	II	14723809..14724845	C09F9.3a.2	GCAG
+Caenorhabditis_japonica	Cjap.Contig17729	49766..50700	CJA13247.1	GCAG ***
+
+>Caenorhabditis_elegans	III	594123..595248	Y55B1AR.2a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig35	273263..273409	CBN18795.1	GCAG ***
+
+>Caenorhabditis_elegans	III	594123..595248	Y55B1AR.2b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig35	273263..273409	CBN18795.1	GCAG ***
+
+>Caenorhabditis_elegans	III	594123..595248	Y55B1AR.2c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig35	273263..273409	CBN18795.1	GCAG ***
+
+>Caenorhabditis_elegans	III	1207203..1207218	Y119D3B.12a.5	CTCC
+Caenorhabditis_brenneri	Cbre_Contig35	33629..33650	CBN03256.1	TGTC
+
+>Caenorhabditis_elegans	III	2102499..2102717	Y48G9A.8.1	GCAG
+Caenorhabditis_briggsae	III	840531..841105	CBG15109.1	CTGT
+
+>Caenorhabditis_elegans	III	2559471..2560323	Y54F10AM.2b.1	GCAG
+Caenorhabditis_briggsae	III	8752822..8753246	CBG09847.1	GCAG ***
+
+>Caenorhabditis_elegans	III	2559471..2560323	Y54F10AM.2d.1	GCAG
+Caenorhabditis_briggsae	III	8752822..8753246	CBG09847.1	GCAG ***
+
+>Caenorhabditis_elegans	III	2559471..2560323	Y54F10AM.2d.2	GCAG
+Caenorhabditis_briggsae	III	8752822..8753246	CBG09847.1	GCAG ***
+
+>Caenorhabditis_elegans	III	2609497..2610685	Y71H2B.5.1	GCAG
+Caenorhabditis_briggsae	III	8662529..8662574	CBG31431.1	GCAG ***
+
+>Caenorhabditis_elegans	III	2699684..2786199	Y71H2AM.5.2	CATC
+Caenorhabditis_brenneri	Cbre_Contig12	1104391..1104490	CBN03937.1	GCAG
+
+>Caenorhabditis_elegans	III	4195015..4195055	R74.3.2	GACG
+Caenorhabditis_briggsae	III	11619153..11619202	CBG20165.1	GTGA
+
+>Caenorhabditis_elegans	III	4207669..4207718	R74.8a.1	GTGG
+Caenorhabditis_briggsae	I	6555585..6555631	CBG10816.1	GTCG
+
+>Caenorhabditis_elegans	III	4207669..4207718	R74.8b.1	GTGG
+Caenorhabditis_briggsae	I	6555585..6555631	CBG10816.1	GTCG
+
+>Caenorhabditis_elegans	III	4853053..4853173	C35D10.9b.1	AAGA
+Caenorhabditis_japonica	Cjap.Contig17536	7770..7989	CJA24916.1	TAAG
+
+>Caenorhabditis_elegans	III	4932525..4932573	C26E6.7a.2	GAAG
+Caenorhabditis_japonica	Cjap.Contig18082	125373..125420	CJA09337.1	GCAG
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1a.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1b.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1c.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1c.2	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1c.3	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1d.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5628814..5628861	C05D2.1e.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17043	16516..19971	CJA00932.1	GCAG ***
+
+>Caenorhabditis_elegans	III	5971782..5972554	T04C9.4a.3	AATC
+Caenorhabditis_japonica	Cjap.Contig18071	78318..81330	CJA09226.2	ATCA
+
+>Caenorhabditis_elegans	III	6414302..6414869	C05D11.6a.1	GCAG
+Caenorhabditis_briggsae	III	3798470..3800044	CBG19665.1	GTCG
+
+>Caenorhabditis_elegans	III	6414302..6414869	C05D11.6a.2	GCAG
+Caenorhabditis_briggsae	III	3798470..3800044	CBG19665.1	GTCG
+
+>Caenorhabditis_elegans	III	6414302..6414869	C05D11.6b.1	GCAG
+Caenorhabditis_briggsae	III	3798470..3800044	CBG19665.1	GTCG
+
+>Caenorhabditis_elegans	III	6414302..6414869	C05D11.6c.1	GCAG
+Caenorhabditis_briggsae	III	3798470..3800044	CBG19665.1	GTCG
+
+>Caenorhabditis_elegans	III	6442822..6442964	C05D11.11a.3	GCAG
+Caenorhabditis_briggsae	III	3769195..3769340	CBG19673.1	GCAG ***
+
+>Caenorhabditis_elegans	III	7344398..7344726	F08F8.6.1	GCAG
+Caenorhabditis_briggsae	III	14213061..14213333	CBG00596.1	GCAG ***
+
+>Caenorhabditis_elegans	III	8376464..8376532	R05D3.11.1	GCAG
+Caenorhabditis_briggsae	III	6500774..6500826	CBG18156.1	GCAG ***
+
+>Caenorhabditis_elegans	III	8498085..8498214	C04D8.1a.1	AGAG
+Caenorhabditis_brenneri	Cbre_Contig5	39255..43573	CBN17554.1	GCAG
+
+>Caenorhabditis_elegans	III	8963416..8964168	ZK643.8a.1	GCAG
+Caenorhabditis_briggsae	III	10307317..10307877	CBG06865.1	GCAG ***
+Caenorhabditis_briggsae	III	10308008..10309003	CBG06865.1	GTCG
+
+>Caenorhabditis_elegans	III	9265007..9265457	M01A8.2a.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig15735	3263..3594	CJA03677.1	GCAG ***
+
+>Caenorhabditis_elegans	III	9265007..9265457	M01A8.2b.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig15735	3263..3594	CJA03677.1	GCAG ***
+
+>Caenorhabditis_elegans	III	9895503..9895548	F40F12.4.1	GCAG
+Caenorhabditis_briggsae	III	9146253..9146304	CBG09949.1	GCAG ***
+
+>Caenorhabditis_elegans	III	10100730..10101266	T16H12.6.1	GTTA
+Caenorhabditis_briggsae	III	6333338..6333386	CBG13307.1	ATAG
+
+>Caenorhabditis_elegans	III	10253670..10254436	R01H10.3c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig13	184586..185161	CBN28538.1	GCAG ***
+
+>Caenorhabditis_elegans	III	10622130..10622178	Y39A1A.23a.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig4312	9844..9897	CJA28748.1	GCAG ***
+
+>Caenorhabditis_elegans	III	10622130..10622178	Y39A1A.23b.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig4312	9844..9897	CJA28748.1	GCAG ***
+
+>Caenorhabditis_elegans	III	11028357..11028401	Y48A6B.8.1	GCAG
+Caenorhabditis_briggsae	X	21398328..21398475	CBG10618.1	GCAG ***
+
+>Caenorhabditis_elegans	III	11140906..11140949	Y47D3A.1.1	GCAG
+Caenorhabditis_briggsae	III	6255613..6255644	CBG13289.1	GCAG ***
+
+>Caenorhabditis_elegans	III	11503081..11503797	Y66D12A.21.1	ATAC
+Caenorhabditis_briggsae	III	6182120..6182183	CBG13274.1	ATAC ***
+
+>Caenorhabditis_elegans	III	11755536..11756397	C24H11.7a.1	GCAG
+Caenorhabditis_briggsae	III	6009292..6009339	CBG13224.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig13	1174979..1175032	CBN24183.1	GCAG ***
+
+>Caenorhabditis_elegans	III	11755536..11756397	C24H11.7b.1	GCAG
+Caenorhabditis_briggsae	III	6009292..6009339	CBG13224.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig13	1174979..1175032	CBN24183.1	GCAG ***
+
+>Caenorhabditis_elegans	III	11764477..11764931	C24H11.7a.1	GCAG
+Caenorhabditis_briggsae	III	6009292..6009339	CBG13224.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig13	1174979..1175032	CBN24183.1	GCAG ***
+
+>Caenorhabditis_elegans	III	12295733..12295780	Y75B8A.26.1	GTGG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+
+>Caenorhabditis_elegans	III	13506030..13506164	T28A8.3.1	AATC
+Caenorhabditis_briggsae	IV	445217..445263	CBG00440.1	GCAG
+
+>Caenorhabditis_elegans	IV	386564..386580	T07A9.11.3	TGGT
+Caenorhabditis_brenneri	Cbre_Contig194	74535..74611	CBN26067.2	AATA
+Caenorhabditis_brenneri	Cbre_Contig194	75212..75247	CBN26067.1	CGTC
+
+>Caenorhabditis_elegans	IV	430608..430650	Y66H1A.6a.1	GCAG
+Caenorhabditis_briggsae	I	3116400..3116452	CBG22283.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig194	94249..94263	CBN32557.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	1013526..1014236	Y55F3AM.3a.1	GCAG
+Caenorhabditis_briggsae	IV	15776187..15776957	CBG13969.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig121	60720..62442	CBN20987.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	1013526..1014236	Y55F3AM.3c.1	GCAG
+Caenorhabditis_briggsae	IV	15776187..15776957	CBG13969.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig121	60720..62442	CBN20987.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	1013526..1014236	Y55F3AM.3c.3	GCAG
+Caenorhabditis_briggsae	IV	15776187..15776957	CBG13969.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig121	60720..62442	CBN20987.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	1013526..1014236	Y55F3AM.3c.4	GCAG
+Caenorhabditis_briggsae	IV	15776187..15776957	CBG13969.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig121	60720..62442	CBN20987.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	3513522..3514102	C09G12.9.1	ATAC
+Caenorhabditis_briggsae	IV	3945946..3946561	CBG15029.1	ATAC ***
+
+>Caenorhabditis_elegans	IV	3556567..3557289	B0212.5.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig16533	7192..7515	CJA13572.1	ACAG
+
+>Caenorhabditis_elegans	IV	4302619..4302773	F15E6.2a.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17500	81288..81424	CJA10570.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	4692975..4693037	T22B11.1.1	GCAG
+Caenorhabditis_briggsae	IV	10633419..10633469	CBG01736.1	GTAT
+
+>Caenorhabditis_elegans	IV	5401026..5401086	ZK616.1.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17639	65956..65985	CJA35834.1	TAGG
+Caenorhabditis_japonica	Cjap.Contig17639	65989..67749	CJA35834.1	AGAG
+
+>Caenorhabditis_elegans	IV	5402991..5403052	ZK616.1.2	TCAG
+Caenorhabditis_japonica	Cjap.Contig17639	65956..65985	CJA35834.1	TAGG
+Caenorhabditis_japonica	Cjap.Contig17639	65989..67749	CJA35834.1	AGAG
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4g.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4h.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4k.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4l.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4o.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4r.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	6023289..6023336	C46G7.4s.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig67	445112..445180	CBN31202.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	7161826..7161875	C42D4.8.1	GCAG
+Caenorhabditis_briggsae	IV	8014523..8014937	CBG05787.2	GGAA
+Caenorhabditis_briggsae	IV	8014938..8017670	CBG05787.1	TTTG
+Caenorhabditis_briggsae	IV	8014964..8014982	CBG05787.2	TTAC
+Caenorhabditis_briggsae	IV	8015074..8015123	CBG05787.2	CCGC
+
+>Caenorhabditis_elegans	IV	7906196..7906782	C49H3.6a.1	GCAG
+Caenorhabditis_briggsae	IV	11586008..11586374	CBG17702.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	8142806..8142871	F42G8.4a.2	TCTC
+Caenorhabditis_brenneri	Cbre_Contig322	98355..98374	CBN30412.1	AGAG
+
+>Caenorhabditis_elegans	IV	8834728..8834775	T28C6.7a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig415	47529..47767	CBN19865.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	8834728..8834775	T28C6.7b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig415	47529..47767	CBN19865.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	8834728..8834775	T28C6.7c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig415	47529..47767	CBN19865.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	8834728..8834775	T28C6.7d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig415	47529..47767	CBN19865.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	9146640..9146800	F23B2.13b.1	TGTC
+Caenorhabditis_briggsae	IV	4318728..4318781	CBG21781.1	GCAG
+
+>Caenorhabditis_elegans	IV	9531032..9531077	F56H11.3.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig336	35776..35801	CBN32484.2	GACT
+Caenorhabditis_japonica	Cjap.Contig18134	79375..80456	CJA35858.2	CATT
+
+>Caenorhabditis_elegans	IV	9818077..9818120	W08D2.5a.1	GCAG
+Caenorhabditis_briggsae	X	13874036..13874082	CBG16898.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	9818077..9818120	W08D2.5b.1	GCAG
+Caenorhabditis_briggsae	X	13874036..13874082	CBG16898.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	9818077..9818120	W08D2.5c.1	GCAG
+Caenorhabditis_briggsae	X	13874036..13874082	CBG16898.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	9997710..9997756	C47E12.4c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig746	23477..23526	CBN01665.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	10005448..10005541	C47E12.1.1	GCAT
+Caenorhabditis_briggsae	IV	9802992..9803111	CBG03435.1	GCAG
+
+>Caenorhabditis_elegans	IV	10052848..10052901	T04B2.4.1	GCAG
+Caenorhabditis_briggsae	IV	9774941..9774987	CBG03427.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	10356732..10356776	R11A8.1a.1	GCAG
+Caenorhabditis_briggsae	IV	11769313..11769357	CBG17654.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	10538343..10538389	T07G12.4.1	GTAT
+Caenorhabditis_brenneri	Cbre_Contig122	37206..37251	CBN14111.1	GCAG
+
+>Caenorhabditis_elegans	IV	10692906..10693121	R102.4a.1	GGAG
+Caenorhabditis_briggsae	IV	11772747..11772933	CBG17652.1	GGAG ***
+
+>Caenorhabditis_elegans	IV	10692906..10693121	R102.4a.2	GGAG
+Caenorhabditis_briggsae	IV	11772747..11772933	CBG17652.1	GGAG ***
+
+>Caenorhabditis_elegans	IV	10692906..10693121	R102.4b.1	GGAG
+Caenorhabditis_briggsae	IV	11772747..11772933	CBG17652.1	GGAG ***
+
+>Caenorhabditis_elegans	IV	10692906..10693121	R102.4c.1	GGAG
+Caenorhabditis_briggsae	IV	11772747..11772933	CBG17652.1	GGAG ***
+
+>Caenorhabditis_elegans	IV	10694132..10694324	R102.4d.3	AGAG
+Caenorhabditis_briggsae	IV	11772747..11772933	CBG17652.1	GGAG
+
+>Caenorhabditis_elegans	IV	11011049..11011548	F13H10.2a.1	GAAG
+Caenorhabditis_briggsae	IV	7379839..7379909	CBG05979.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig318	18485..18560	CBN10662.1	GCAG
+
+>Caenorhabditis_elegans	IV	11011049..11011548	F13H10.2b.1	GAAG
+Caenorhabditis_briggsae	IV	7379839..7379909	CBG05979.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig318	18485..18560	CBN10662.1	GCAG
+
+>Caenorhabditis_elegans	IV	11011876..11011951	F13H10.2a.1	GCAG
+Caenorhabditis_briggsae	IV	7379839..7379909	CBG05979.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig318	18485..18560	CBN10662.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11024755..11024837	F36H1.6.1	GCAG
+Caenorhabditis_briggsae	IV	7367903..7367948	CBG05984.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11141974..11142022	F01G4.3.1	GCAG
+Caenorhabditis_briggsae	IV	7277832..7277879	CBG06018.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11141974..11142022	F01G4.3.2	GCAG
+Caenorhabditis_briggsae	IV	7277832..7277879	CBG06018.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11329549..11329577	B0035.12.2	TCAA
+Caenorhabditis_briggsae	IV	8490617..8490664	CBG06075.1	GTCG
+
+>Caenorhabditis_elegans	IV	11748601..11748622	T12A7.1.2	TTAT
+Caenorhabditis_briggsae	IV	8533080..8533129	CBG06080.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig16439	23355..23668	CJA12404.1	GCAA
+Caenorhabditis_japonica	Cjap.Contig16439	23408..23439	CJA12404.2	GTTG
+Caenorhabditis_japonica	Cjap.Contig16439	23971..24125	CJA12404.1	TTAA
+
+>Caenorhabditis_elegans	IV	11888816..11889556	C29E6.1c.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18074	263708..265388	CJA04222.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11889173..11889556	C29E6.1a.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18074	263708..265388	CJA04222.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11943579..11943625	ZK829.3.1	GCAG
+Caenorhabditis_briggsae	IV	8974102..8974153	CBG06197.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig5754	42166..42221	CJA18258.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11944802..11944847	ZK829.3.1	GCAG
+Caenorhabditis_briggsae	IV	8974102..8974153	CBG06197.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig5754	42166..42221	CJA18258.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	11955222..11955387	ZK829.4.2	TTCG
+Caenorhabditis_brenneri	Cbre_Contig391	137943..137963	CBN01807.1	CGCA
+
+>Caenorhabditis_elegans	IV	13193963..13194291	C48D1.1a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig2	1975896..1976130	CBN15617.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	13193963..13194291	C48D1.1b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig2	1975896..1976130	CBN15617.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	13765741..13765816	Y45F10D.13c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig57	216553..216772	CBN09783.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	13765741..13765816	Y45F10D.13e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig57	216553..216772	CBN09783.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	14762495..14762664	Y57G11C.5a.1	TTAG
+Caenorhabditis_brenneri	Cbre_Contig83	201675..201997	CBN16697.1	GCAG
+
+>Caenorhabditis_elegans	IV	14762495..14762664	Y57G11C.5b.1	TTAG
+Caenorhabditis_brenneri	Cbre_Contig83	201675..201997	CBN16697.1	GCAG
+
+>Caenorhabditis_elegans	IV	14762495..14762664	Y57G11C.5c.1	TTAG
+Caenorhabditis_brenneri	Cbre_Contig83	201675..201997	CBN16697.1	GCAG
+
+>Caenorhabditis_elegans	IV	15110525..15110654	M199.2.1	GTGG
+Caenorhabditis_briggsae	II	5712732..5712968	CBG25532.1	GTAC
+
+>Caenorhabditis_elegans	IV	17348443..17348493	C49C3.13.1	GCAG
+Caenorhabditis_briggsae	IV	325852..325899	CBG00395.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig22	939421..939597	CBN12459.1	ACAG
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1a.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1b.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1c.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1d.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1e.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1g.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1h.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1i.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1j.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1k.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1l.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1m.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1n.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1o.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1p.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17352727..17352777	C30H6.1q.1	GCAG
+Caenorhabditis_briggsae	IV	334114..337923	CBG00397.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17365014..17365058	C30H6.2.1	GCAG
+Caenorhabditis_briggsae	IV	348640..348684	CBG00400.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig22	906180..906511	CBN20152.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17365014..17365058	C30H6.2.2	GCAG
+Caenorhabditis_briggsae	IV	348640..348684	CBG00400.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig22	906180..906511	CBN20152.1	GCAG ***
+
+>Caenorhabditis_elegans	IV	17433638..17433681	C06A12.4a.1	ATAG
+Caenorhabditis_briggsae	I	774855..775323	CBG19453.1	GCAG
+
+>Caenorhabditis_elegans	IV	17433638..17433681	C06A12.4b.1	ATAG
+Caenorhabditis_briggsae	I	774855..775323	CBG19453.1	GCAG
+
+>Caenorhabditis_elegans	V	463287..463337	M02H5.4a.1	GCAG
+Caenorhabditis_briggsae	V	4206726..4206772	CBG01355.1	GTCG
+
+>Caenorhabditis_elegans	V	464863..465741	M02H5.3.1	ATAA
+Caenorhabditis_briggsae	V	4206726..4206772	CBG01355.1	GTCG
+
+>Caenorhabditis_elegans	V	1735325..1735378	ZK697.10.1	GTTG
+Caenorhabditis_briggsae	V	3514498..3514554	CBG10439.1	GGCA
+Caenorhabditis_briggsae	V	3517607..3517653	CBG30505.1	GCAG
+
+>Caenorhabditis_elegans	V	2372217..2372441	Y19D10A.11a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig735	38388..39861	CBN30766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	2480178..2480402	F56A4.12a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig735	38388..39861	CBN30766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	3134371..3134418	F02C9.2.1	ATAA
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA ***
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG
+
+>Caenorhabditis_elegans	V	3255336..3255394	T28A11.15.1	GCAG
+Caenorhabditis_briggsae	V	7751377..7751690	CBG08693.1	GTGT
+
+>Caenorhabditis_elegans	V	3968368..3968419	B0213.15a.1	GCAG
+Caenorhabditis_briggsae	V	4467435..4467495	CBG30857.1	TCAG
+
+>Caenorhabditis_elegans	V	3968368..3968419	B0213.15c.1	GCAG
+Caenorhabditis_briggsae	V	4467435..4467495	CBG30857.1	TCAG
+
+>Caenorhabditis_elegans	V	5044560..5045335	K11D12.9.1	GCAG
+Caenorhabditis_briggsae	V	7873182..7873253	CBG08656.2	GTCG
+
+>Caenorhabditis_elegans	V	5518535..5518586	C24G6.3.1	GCAG
+Caenorhabditis_briggsae	V	11405585..11405633	CBG09378.1	GCAG ***
+
+>Caenorhabditis_elegans	V	5779729..5779780	F44E7.5a.1	GTGG
+Caenorhabditis_briggsae	V	11595614..11595662	CBG31428.1	GTGG ***
+
+>Caenorhabditis_elegans	V	5779730..5779780	F44E7.5b.1	GTTG
+Caenorhabditis_briggsae	V	11595614..11595662	CBG31428.1	GTGG
+
+>Caenorhabditis_elegans	V	6120914..6121298	W06H8.8a.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8a.2	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8f.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8g.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8h.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8i.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8k.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8l.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8m.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6122386..6122430	W06H8.8n.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig218	10941..11193	CBN31766.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig218	24255..24282	CBN31766.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6323254..6323276	T28C12.4a.2	CTAC
+Caenorhabditis_japonica	Cjap.Contig17880	236598..237086	CJA18046.1	GCAG
+
+>Caenorhabditis_elegans	V	6675087..6675130	K11G9.2.1	GCAG
+Caenorhabditis_briggsae	V	12368589..12368600	CBG18991.1	GTAT
+Caenorhabditis_japonica	Cjap.Contig17133	85992..86017	CJA05456.2	CTTT
+
+>Caenorhabditis_elegans	V	6808177..6808223	T27B2.1.1	GCAG
+Caenorhabditis_briggsae	V	12477273..12477318	CBG19022.1	GCAG ***
+Caenorhabditis_briggsae	V	12485958..12486003	CBG19025.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6808476..6808526	T27B2.1.1	ATAG
+Caenorhabditis_briggsae	V	12477273..12477318	CBG19022.1	GCAG
+Caenorhabditis_briggsae	V	12485958..12486003	CBG19025.1	GCAG
+
+>Caenorhabditis_elegans	V	6816015..6816061	T15B7.11a.1	GCAG
+Caenorhabditis_briggsae	V	12477273..12477318	CBG19022.1	GCAG ***
+Caenorhabditis_briggsae	V	12485958..12486003	CBG19025.1	GCAG ***
+
+>Caenorhabditis_elegans	V	6816015..6816061	T15B7.11b.1	GCAG
+Caenorhabditis_briggsae	V	12477273..12477318	CBG19022.1	GCAG ***
+Caenorhabditis_briggsae	V	12485958..12486003	CBG19025.1	GCAG ***
+
+>Caenorhabditis_elegans	V	7697662..7697749	ZK105.3.1	GTCA
+Caenorhabditis_briggsae	V	4958898..4958948	CBG01120.1	ATAA
+Caenorhabditis_briggsae	V	6303732..6303782	CBG06402.1	ATAC
+Caenorhabditis_brenneri	Cbre_Contig23	97391..97601	CBN32781.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig85	98184..98237	CBN24535.1	GCAG
+
+>Caenorhabditis_elegans	V	7982291..7982444	F26D11.1.1	GCAG
+Caenorhabditis_briggsae	V	8015558..8015711	CBG08614.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig23	586240..586386	CBN19746.1	GCAG ***
+
+>Caenorhabditis_elegans	V	8234756..8234804	C16D9.2.1	GTGG
+Caenorhabditis_japonica	Cjap.Contig17503	130171..130218	CJA08463.1	GCAG
+
+>Caenorhabditis_elegans	V	8349430..8349479	C08D8.1.1	GCAG
+Caenorhabditis_briggsae	V	902687..902732	CBG11284.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig1440	3502..3584	CBN23647.1	GCAG ***
+
+>Caenorhabditis_elegans	V	9396680..9396746	F36D4.3c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig160	20436..20538	CBN06716.1	GCAG ***
+
+>Caenorhabditis_elegans	V	9742246..9742293	F58E6.1.1	GCAG
+Caenorhabditis_briggsae	V	13781202..13781248	CBG19363.1	GTCG
+
+>Caenorhabditis_elegans	V	10323597..10323647	B0024.14a.1	GTGG
+Caenorhabditis_brenneri	Cbre_Contig65	228775..228819	CBN07076.1	GCAG
+
+>Caenorhabditis_elegans	V	10323597..10323647	B0024.14b.1	GTGG
+Caenorhabditis_brenneri	Cbre_Contig65	228775..228819	CBN07076.1	GCAG
+
+>Caenorhabditis_elegans	V	10323597..10323647	B0024.14d.1	GTGG
+Caenorhabditis_brenneri	Cbre_Contig65	228775..228819	CBN07076.1	GCAG
+
+>Caenorhabditis_elegans	V	10323597..10323647	B0024.14f.1	GTGG
+Caenorhabditis_brenneri	Cbre_Contig65	228775..228819	CBN07076.1	GCAG
+
+>Caenorhabditis_elegans	V	10574724..10575175	T21C9.3a.3	GCAG
+Caenorhabditis_briggsae	V	10462889..10462969	CBG09644.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig954	8425..8460	CBN20527.1	TTAG
+Caenorhabditis_japonica	Cjap.Contig17563	83669..83787	CJA05517.1	GCAG ***
+
+>Caenorhabditis_elegans	V	10575098..10575175	T21C9.3b.1	GCAG
+Caenorhabditis_briggsae	V	10462889..10462969	CBG09644.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig954	8425..8460	CBN20527.1	TTAG
+Caenorhabditis_japonica	Cjap.Contig17563	83669..83787	CJA05517.1	GCAG ***
+
+>Caenorhabditis_elegans	V	10956778..10956822	F17C11.13b.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig10417	1000..1067	CJA27343.1	GCAG ***
+
+>Caenorhabditis_elegans	V	10965826..10965974	F17C11.9b.2	GAAG
+Caenorhabditis_briggsae	V	10078807..10078967	CBG23066.1	TTGT
+Caenorhabditis_brenneri	Cbre_Contig64	402822..402846	CBN26132.2	TGCA
+
+>Caenorhabditis_elegans	V	11446739..11446790	F57B7.4.1	GCAG
+Caenorhabditis_briggsae	V	9588186..9588231	CBG23204.1	GCAG ***
+Caenorhabditis_briggsae	V	9590026..9590087	CBG23204.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig316	84145..84201	CBN00826.1	GCAG ***
+
+>Caenorhabditis_elegans	V	11468665..11468720	T11F9.4a.1	GCAG
+Caenorhabditis_briggsae	V	9569418..9569473	CBG23209.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18232	73907..73951	CJA00403.1	GCAG ***
+
+>Caenorhabditis_elegans	V	11468665..11468720	T11F9.4b.1	GCAG
+Caenorhabditis_briggsae	V	9569418..9569473	CBG23209.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18232	73907..73951	CJA00403.1	GCAG ***
+
+>Caenorhabditis_elegans	V	12098328..12098359	R07B7.16.1	AAAT
+Caenorhabditis_briggsae	V	8910653..8911665	CBG23379.1	GTTG
+
+>Caenorhabditis_elegans	V	12145988..12146036	C27A7.4.1	GCAG
+Caenorhabditis_briggsae	V	8862400..8862445	CBG23392.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig12804	4164..4509	CJA28935.1	GCAG ***
+
+>Caenorhabditis_elegans	V	12364998..12365042	F23H12.6.1	GCAG
+Caenorhabditis_briggsae	V	8607588..8607666	CBG23466.1	GCAG ***
+
+>Caenorhabditis_elegans	V	12627452..12627496	ZC116.3.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig288	38055..38091	CBN32056.1	GCAG ***
+
+>Caenorhabditis_elegans	V	13003067..13003115	F15B9.4.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig2133	244..487	CBN32354.1	AAGT
+
+>Caenorhabditis_elegans	V	13814809..13814853	F55B12.1.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig23	276402..276450	CBN18024.1	GTTA
+
+>Caenorhabditis_elegans	V	13902986..13903030	C06B3.1.1	GCAG
+Caenorhabditis_briggsae	V	323114..323165	CBG11443.1	GCAG ***
+
+>Caenorhabditis_elegans	V	14113814..14114054	H39E23.1d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig698	35264..35455	CBN20317.1	GCAG ***
+
+>Caenorhabditis_elegans	V	14113814..14114054	H39E23.1i.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig698	35264..35455	CBN20317.1	GCAG ***
+
+>Caenorhabditis_elegans	V	14159106..14159149	T02B5.3.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17880	236598..237086	CJA18046.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18121	254559..254641	CJA36225.1	CGTA
+Caenorhabditis_japonica	Cjap.Contig18121	254644..254841	CJA36225.1	GAAG
+
+>Caenorhabditis_elegans	V	14338417..14338464	F47B8.9b.1	GCAG
+Caenorhabditis_briggsae	V	14759069..14759119	CBG30676.1	GCAG ***
+Caenorhabditis_briggsae	V	14759069..14759119	CBG30676.2	GCAG ***
+
+>Caenorhabditis_elegans	V	14869677..14870137	ZC412.3b.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18094	76200..76517	CJA01912.1	CTGC
+
+>Caenorhabditis_elegans	V	15215495..15215578	C41G6.14.1	TTCA
+Caenorhabditis_briggsae	V	12946550..12946594	CBG19150.1	GCAG
+Caenorhabditis_briggsae	V	12949315..12949610	CBG19151.1	CCTC
+
+>Caenorhabditis_elegans	V	15215766..15215809	C41G6.14.1	GCAG
+Caenorhabditis_briggsae	V	12946550..12946594	CBG19150.1	GCAG ***
+Caenorhabditis_briggsae	V	12949315..12949610	CBG19151.1	CCTC
+
+>Caenorhabditis_elegans	V	15215766..15215809	C41G6.14.2	GCAG
+Caenorhabditis_briggsae	V	12946550..12946594	CBG19150.1	GCAG ***
+Caenorhabditis_briggsae	V	12949315..12949610	CBG19151.1	CCTC
+
+>Caenorhabditis_elegans	V	15217039..15217182	C41G6.10.1	TTGA
+Caenorhabditis_briggsae	V	12946550..12946594	CBG19150.1	GCAG
+Caenorhabditis_briggsae	V	12949315..12949610	CBG19151.1	CCTC
+
+>Caenorhabditis_elegans	V	16409777..16409828	F26D2.3a.1	GCAG
+Caenorhabditis_briggsae	cb25.NA_276	2079..2175	CBG24931.1	TAGG
+Caenorhabditis_briggsae	cb25.NA_276	2178..2761	CBG24931.1	GTTC
+Caenorhabditis_briggsae	II	13415802..13415849	CBG21363.1	GCAG ***
+
+>Caenorhabditis_elegans	V	16790484..16791263	W06H3.1.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig40	558935..563693	CBN00516.1	GCAG ***
+
+>Caenorhabditis_elegans	V	17567629..17569318	C38D9.2.3	CGTT
+Caenorhabditis_brenneri	Cbre_Contig918	3589..3966	CBN00996.1	GCAG
+
+>Caenorhabditis_elegans	V	20381451..20381848	K02E2.6.3	GTTA
+Caenorhabditis_briggsae	IV	2811478..2811482	CBG22343.1	TAAT
+
+>Caenorhabditis_elegans	X	576844..578101	F57C12.5b.1	GCAG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG ***
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+Caenorhabditis_brenneri	Cbre_Contig254	154663..154854	CBN28994.1	GCAG ***
+
+>Caenorhabditis_elegans	X	576844..578101	F57C12.5b.2	GCAG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG ***
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+Caenorhabditis_brenneri	Cbre_Contig254	154663..154854	CBN28994.1	GCAG ***
+
+>Caenorhabditis_elegans	X	576844..578101	F57C12.5c.1	GCAG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG ***
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+Caenorhabditis_brenneri	Cbre_Contig254	154663..154854	CBN28994.1	GCAG ***
+
+>Caenorhabditis_elegans	X	576844..578101	F57C12.5d.1	GCAG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG ***
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+Caenorhabditis_brenneri	Cbre_Contig254	154663..154854	CBN28994.1	GCAG ***
+
+>Caenorhabditis_elegans	X	576844..578101	F57C12.5e.1	GCAG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG ***
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+Caenorhabditis_brenneri	Cbre_Contig254	154663..154854	CBN28994.1	GCAG ***
+
+>Caenorhabditis_elegans	X	1037126..1037169	F55A4.7.1	GCAG
+Caenorhabditis_briggsae	X	142966..143019	CBG30793.1	GCAG ***
+
+>Caenorhabditis_elegans	X	1190009..1190214	T13G4.4.1	GCAG
+Caenorhabditis_briggsae	IV	14900720..14901147	CBG15622.1	TTTG
+
+>Caenorhabditis_elegans	X	1190009..1190214	T13G4.4.2	GCAG
+Caenorhabditis_briggsae	IV	14900720..14901147	CBG15622.1	TTTG
+
+>Caenorhabditis_elegans	X	1190009..1190214	T13G4.4.3	GCAG
+Caenorhabditis_briggsae	IV	14900720..14901147	CBG15622.1	TTTG
+
+>Caenorhabditis_elegans	X	1459393..1459444	D1005.2.1	GCAG
+Caenorhabditis_briggsae	cb25.NA_176	588..1182	CBG24515.1	GTCC
+
+>Caenorhabditis_elegans	X	2114909..2114953	F53B1.6.1	GCAG
+Caenorhabditis_briggsae	X	7945192..7945238	CBG14084.1	GCAG ***
+
+>Caenorhabditis_elegans	X	3296544..3296602	K09C4.2.1	GTTG
+Caenorhabditis_briggsae	V	4849639..4849682	CBG30854.1	GTTG ***
+Caenorhabditis_briggsae	V	4851333..4852123	CBG30854.1	ACAG
+
+>Caenorhabditis_elegans	X	3325264..3325315	F11D5.6.1	GCAG
+Caenorhabditis_briggsae	X	8410658..8410735	CBG14187.1	GCAG ***
+
+>Caenorhabditis_elegans	X	4277687..4277732	C52B9.6.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig17084	161285..161342	CJA00984.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig17084	161668..161999	CJA00984.1	GCAG ***
+
+>Caenorhabditis_elegans	X	4471317..4471349	F02E8.1.2	CGCT
+Caenorhabditis_japonica	Cjap.Contig18206	32469..32625	CJA13207.1	TTCA
+
+>Caenorhabditis_elegans	X	4828008..4828108	R08E3.1a.1	GCAG
+Caenorhabditis_briggsae	X	10601136..10602192	CBG14646.1	GGAG
+Caenorhabditis_briggsae	X	10603087..10603217	CBG14646.1	CCTC
+Caenorhabditis_briggsae	X	10606900..10607638	CBG14646.1	GAAG
+Caenorhabditis_briggsae	X	10596458..10596519	CBG31030.1	GCAG ***
+
+>Caenorhabditis_elegans	X	4828008..4828108	R08E3.1b.1	GCAG
+Caenorhabditis_briggsae	X	10601136..10602192	CBG14646.1	GGAG
+Caenorhabditis_briggsae	X	10603087..10603217	CBG14646.1	CCTC
+Caenorhabditis_briggsae	X	10606900..10607638	CBG14646.1	GAAG
+Caenorhabditis_briggsae	X	10596458..10596519	CBG31030.1	GCAG ***
+
+>Caenorhabditis_elegans	X	4828008..4828108	R08E3.1b.2	GCAG
+Caenorhabditis_briggsae	X	10601136..10602192	CBG14646.1	GGAG
+Caenorhabditis_briggsae	X	10603087..10603217	CBG14646.1	CCTC
+Caenorhabditis_briggsae	X	10606900..10607638	CBG14646.1	GAAG
+Caenorhabditis_briggsae	X	10596458..10596519	CBG31030.1	GCAG ***
+
+>Caenorhabditis_elegans	X	5255431..5255658	Y34B4A.9.1	GCAG
+Caenorhabditis_briggsae	X	10583834..10584041	CBG29125.1	GCAG ***
+
+>Caenorhabditis_elegans	X	5395925..5395975	C03F11.2.1	GTAT
+Caenorhabditis_briggsae	X	10746189..10746240	CBG14679.1	GTAT ***
+
+>Caenorhabditis_elegans	X	5450244..5450295	C25F6.6.1	GCAG
+Caenorhabditis_briggsae	X	10799897..10799940	CBG14686.1	GCAG ***
+
+>Caenorhabditis_elegans	X	5547063..5547113	C54G7.4.1	GCAG
+Caenorhabditis_briggsae	X	11378595..11378651	CBG14804.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18194	731390..731460	CJA21748.1	GCAG ***
+
+>Caenorhabditis_elegans	X	5547897..5548261	C54G7.4.1	GCAG
+Caenorhabditis_briggsae	X	11378595..11378651	CBG14804.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18194	731390..731460	CJA21748.1	GCAG ***
+
+>Caenorhabditis_elegans	X	5988175..5988346	F22F4.3.1	GCAG
+Caenorhabditis_briggsae	X	11329272..11330959	CBG14793.1	GTAT
+Caenorhabditis_briggsae	X	11332277..11332571	CBG14793.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18137	499154..499264	CJA16478.1	GCAG ***
+
+>Caenorhabditis_elegans	X	6125206..6125262	C15H9.1.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig24	809144..809222	CBN10239.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18137	315655..315706	CJA11138.1	GCAG ***
+
+>Caenorhabditis_elegans	X	6837533..6837989	F41B4.4a.1	GCAG
+Caenorhabditis_briggsae	X	12297965..12298026	CBG10905.1	GCAG ***
+Caenorhabditis_briggsae	X	12297965..12298026	CBG10905.2	GCAG ***
+
+>Caenorhabditis_elegans	X	7033659..7034255	R173.3.1	GCAG
+Caenorhabditis_briggsae	X	12493546..12494279	CBG10957.1	GCAG ***
+Caenorhabditis_briggsae	X	12494952..12495000	CBG10957.1	GGAG
+Caenorhabditis_japonica	Cjap.Contig17880	236598..237086	CJA18046.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig14242	1514..1561	CJA43048.1	GCAG ***
+
+>Caenorhabditis_elegans	X	7162993..7163040	C54D1.1.1	GCAG
+Caenorhabditis_briggsae	X	12624395..12624449	CBG10984.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig53	363337..363390	CBN05995.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18181	275350..275405	CJA11203.1	GCAG ***
+
+>Caenorhabditis_elegans	X	7260064..7260112	F46H5.8.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig53	139523..139614	CBN10083.1	GCAG ***
+
+>Caenorhabditis_elegans	X	7668652..7668838	F27D9.7.1	GCAG
+Caenorhabditis_briggsae	X	13254214..13254261	CBG16757.1	GCAG ***
+
+>Caenorhabditis_elegans	X	7884884..7884957	C39D10.3a.1	GCAG
+Caenorhabditis_briggsae	X	13611904..13611946	CBG16841.1	GCAG ***
+Caenorhabditis_briggsae	X	13612022..13612115	CBG16841.1	GCAG ***
+
+>Caenorhabditis_elegans	X	8003898..8007802	F45E1.1.1	CTTC
+Caenorhabditis_briggsae	X	13756913..13759788	CBG16868.1	GCAG
+
+>Caenorhabditis_elegans	X	8003921..8007804	F45E1.1.2	GCAG
+Caenorhabditis_briggsae	X	13756913..13759788	CBG16868.1	GCAG ***
+
+>Caenorhabditis_elegans	X	8083133..8083182	K07E3.4a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig30	136650..136991	CBN24854.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18210	629466..629551	CJA16269.1	GCAG ***
+
+>Caenorhabditis_elegans	X	8083133..8083182	K07E3.4b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig30	136650..136991	CBN24854.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18210	629466..629551	CJA16269.1	GCAG ***
+
+>Caenorhabditis_elegans	X	8453635..8453891	F16F9.2.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18180	191059..192298	CJA03396.1	GTCT
+
+>Caenorhabditis_elegans	X	9308764..9308816	B0416.1a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig8	1440465..1440556	CBN10526.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig17611	210272..210325	CJA12174.1	GCAG ***
+
+>Caenorhabditis_elegans	X	9308764..9308816	B0416.1b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig8	1440465..1440556	CBN10526.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig17611	210272..210325	CJA12174.1	GCAG ***
+
+>Caenorhabditis_elegans	X	9308764..9308816	B0416.1c.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig8	1440465..1440556	CBN10526.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig17611	210272..210325	CJA12174.1	GCAG ***
+
+>Caenorhabditis_elegans	X	9308764..9308816	B0416.1d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig8	1440465..1440556	CBN10526.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig17611	210272..210325	CJA12174.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10235427..10235581	C14H10.1.1	GCAG
+Caenorhabditis_briggsae	X	7017805..7017903	CBG17194.1	GCAG ***
+Caenorhabditis_japonica	Cjap.Contig18184	1015720..1015875	CJA03808.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1b.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1d.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1e.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1f.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1g.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1h.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1i.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1j.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1k.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10797307..10797367	F31B12.1l.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig9	469337..469671	CBN17536.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10856252..10856297	C05A9.1a.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10856252..10856297	C05A9.1b.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10861063..10861152	T21E8.3.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10871708..10871753	T21E8.1a.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10871708..10871753	T21E8.1b.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10871708..10871753	T21E8.1c.1	GCAG
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG ***
+
+>Caenorhabditis_elegans	X	10982358..10982378	F59F3.5.2	TTAC
+Caenorhabditis_briggsae	X	5845146..5846632	CBG17535.1	ANAG
+Caenorhabditis_briggsae	X	5849716..5849786	CBG17535.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18184	155402..155457	CJA10066.1	GCAG
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2a.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2a.3	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2a.4	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2a.5	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2a.6	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2f.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2g.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2h.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11022461..11022952	F58A3.2p.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig184	135628..135837	CBN08064.1	GCAG ***
+
+>Caenorhabditis_elegans	X	11358414..11358445	F42E11.1a.1	CTGT
+Caenorhabditis_briggsae	II	3201807..3201854	CBG13356.1	GCAG
+
+>Caenorhabditis_elegans	X	11703017..11703069	C44C10.3.1	GAAG
+Caenorhabditis_brenneri	Cbre_Contig34	477210..478331	CBN14299.1	GCAG
+
+>Caenorhabditis_elegans	X	12102961..12103014	W03G11.3.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig8	1251414..1251455	CBN05420.1	GCAG ***
+
+>Caenorhabditis_elegans	X	12389601..12389631	F19H6.1.2	TAAC
+Caenorhabditis_briggsae	X	14575261..14575305	CBG00136.1	GCAG
+
+>Caenorhabditis_elegans	X	12647188..12647218	H36L18.1.1	CCCT
+Caenorhabditis_briggsae	X	14348286..14348683	CBG00098.1	GTAT
+
+>Caenorhabditis_elegans	X	12648390..12648998	H36L18.1.1	GTAT
+Caenorhabditis_briggsae	X	14348286..14348683	CBG00098.1	GTAT ***
+
+>Caenorhabditis_elegans	X	12692736..12692789	T07C5.1c.1	GCAG
+Caenorhabditis_briggsae	X	14298262..14298314	CBG30830.1	GCAG ***
+
+>Caenorhabditis_elegans	X	12692736..12692789	T07C5.1d.1	GCAG
+Caenorhabditis_briggsae	X	14298262..14298314	CBG30830.1	GCAG ***
+
+>Caenorhabditis_elegans	X	12692736..12692789	T07C5.1e.1	GCAG
+Caenorhabditis_briggsae	X	14298262..14298314	CBG30830.1	GCAG ***
+
+>Caenorhabditis_elegans	X	12995744..12995855	F11C1.5a.1	GCAG
+Caenorhabditis_briggsae	X	13963435..13963563	CBG16916.1	GCAG ***
+
+>Caenorhabditis_elegans	X	12995744..12995855	F11C1.5a.2	GCAG
+Caenorhabditis_briggsae	X	13963435..13963563	CBG16916.1	GCAG ***
+
+>Caenorhabditis_elegans	X	13184847..13184974	F48C11.2a.1	GTAT
+Caenorhabditis_briggsae	X	17009668..17010411	CBG05251.1	GTTG
+
+>Caenorhabditis_elegans	X	13184847..13184974	F48C11.2b.1	GTAT
+Caenorhabditis_briggsae	X	17009668..17010411	CBG05251.1	GTTG
+
+>Caenorhabditis_elegans	X	13758936..13759385	F55F3.1.2	TGAG
+Caenorhabditis_japonica	Cjap.Contig17375	272837..273510	CJA16899.1	AAAG
+
+>Caenorhabditis_elegans	X	14768425..14768502	Y16B4A.2.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18051	67203..67253	CJA14919.1	GCAG ***
+
+>Caenorhabditis_elegans	X	14951299..14951350	F45B8.4.1	GCAG
+Caenorhabditis_briggsae	X	18189153..18189209	CBG07657.1	GCAG ***
+
+>Caenorhabditis_elegans	X	14978300..14978345	F20D1.3.1	GCAG
+Caenorhabditis_brenneri	Cbre_Contig71	515951..517278	CBN22105.1	GCAG ***
+Caenorhabditis_brenneri	Cbre_Contig402	22485..23069	CBN14223.1	GCAG ***
+
+>Caenorhabditis_elegans	X	15073055..15073113	H40L08.3a.1	GTGG
+Caenorhabditis_briggsae	X	18266640..18266691	CBG07638.1	GCAG
+Caenorhabditis_briggsae	X	18268983..18269041	CBG07638.1	GTGG ***
+
+>Caenorhabditis_elegans	X	15073056..15073113	H40L08.3b.1	GTCG
+Caenorhabditis_briggsae	X	18266640..18266691	CBG07638.1	GCAG
+Caenorhabditis_briggsae	X	18268983..18269041	CBG07638.1	GTGG
+
+>Caenorhabditis_elegans	X	15932384..15932430	E03G2.2.1	GCAG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG ***
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+
+>Caenorhabditis_elegans	X	15933694..15933801	E03G2.2.1	GTCG
+Caenorhabditis_briggsae	III	1817558..1818741	CBG00495.1	GCAG
+Caenorhabditis_briggsae	cb25.NA_172	9895..12010	CBG24505.1	TAAG
+
+>Caenorhabditis_elegans	X	16386215..16386612	F01G12.5b.1	GCAG
+Caenorhabditis_japonica	Cjap.Contig18042	190857..191200	CJA05697.1	GCAG ***
+
