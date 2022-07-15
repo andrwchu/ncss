@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-import re
 
 
 @dataclass
@@ -15,6 +14,7 @@ class Intron:
 		"wbgene",
 		"ss",
 		"seq",
+		"masked",
 		"orth_genes",
 		"orth_intrs",
 	)
@@ -28,5 +28,6 @@ class Intron:
 	wbgene: str
 	ss: str
 	seq: str
+	masked: str
 	orth_genes: []  # list of lists, then dict of {worm : [wbgene1, wbgene2]}
 	orth_intrs: []

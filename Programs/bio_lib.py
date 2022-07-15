@@ -1,14 +1,21 @@
+rc_bases = {
+	'A' : 'T',
+	'a' : 't',
+	'T' : 'A',
+	't' : 'a',
+	'C' : 'G',
+	'c' : 'g',
+	'G' : 'C',
+	'g' : 'c'
+}
+
 def rev_comp(seq):
 	rc = ""
 	for c in seq:
-		if c == "A":
-			rc += "T"
-		elif c == "T":
-			rc += "A"
-		elif c == "C":
-			rc += "G"
+		if c in rc_bases:
+			rc += rc_bases[c]
 		else:
-			rc += "C"
+			rc += c
 	return rc[::-1]
 
 codons = {
