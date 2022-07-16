@@ -72,17 +72,17 @@ def orth_intrs(nc_intr):
 	target1 = "Caenorhabditis_briggsae"
 	target_id1 = "../WormBase/briggsae/c_briggsae.PRJNA10731.WS284.geneIDs.txt.gz"
 	target_fa1 = "../WormBase/briggsae/c_briggsae.PRJNA10731.WS284.genomic.fa.gz"
-	target_gff1 = "../WormBase/briggsae/annotations.gff3"
+	target_gff1 = "../WormBase/briggsae/annotations.gff3.gz"
 
 	target2 = "Caenorhabditis_brenneri"
 	target_id2 = "../WormBase/brenneri/c_brenneri.PRJNA20035.WS284.geneIDs.txt.gz"
 	target_fa2 = "../WormBase/brenneri/c_brenneri.PRJNA20035.WS284.genomic.fa.gz"
-	target_gff2 = "../WormBase/brenneri/annotations.gff3"
+	target_gff2 = "../WormBase/brenneri/annotations.gff3.gz"
 
 	target3 = "Caenorhabditis_japonica"
 	target_id3 = "../WormBase/japonica/c_japonica.PRJNA12591.WS284.geneIDs.txt.gz"
 	target_fa3 = "../WormBase/japonica/c_japonica.PRJNA12591.WS284.genomic.fa.gz"
-	target_gff3 = "../WormBase/japonica/annotations.gff3"
+	target_gff3 = "../WormBase/japonica/annotations.gff3.gz"
 
 	TARGETS = [
 		(target1, target_id1, target_fa1, target_gff1),

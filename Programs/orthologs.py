@@ -6,7 +6,7 @@ from target_orth import orth_intrs
 from gen_bl2seq import bl2seq_fasta
 
 FA = "../WormBase/elegans/c_elegans.PRJNA13758.WS284.genomic.fa.gz"
-GFF = "../WormBase/elegans/annotations.gff3"
+GFF = "../WormBase/elegans/annotations.gff3.gz"
 ELEGANS_ID = "../WormBase/elegans/c_elegans.PRJNA13758.WS284.geneIDs.txt.gz"
 ORTH = "../WormBase/elegans/c_elegans.PRJNA13758.WS284.orthologs.txt.gz"
 
