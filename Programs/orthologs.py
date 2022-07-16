@@ -5,9 +5,6 @@ import intron_class
 from target_orth import orth_intrs
 from gen_bl2seq import bl2seq_fasta
 
-FA = "../../datacore/genome_celegans/1pct_elegans.fa"
-GFF = "../../datacore/genome_celegans/1pct_elegans.gff3"
-
 FA = "../WormBase/elegans/c_elegans.PRJNA13758.WS284.genomic.fa.gz"
 GFF = "../WormBase/elegans/annotations.gff3"
 ELEGANS_ID = "../WormBase/elegans/c_elegans.PRJNA13758.WS284.geneIDs.txt.gz"
@@ -43,8 +40,6 @@ for header, seq in f_reader.read_fasta(FA):
 			if intr.ss != "GTAG":
 				nc_intr.append(intr)
 
-# destroy chromosomes? holds canonical introns, and it is not destroyed
-
 # create masked versions of gene sequences
 masked = f_reader.find_mask(nc_intr, FA, GFF)
 for intr in nc_intr:
@@ -59,4 +54,4 @@ nc_intr = orth_intrs(nc_intr)
 
 
 if __name__ == "__main__":
-	bl2seq_fasta(nc_intr, "/home/andrwchu/Work/NCSS/out/bl2seq/")
+	bl2seq_fasta(nc_intr, "../out/bl2seq/")
