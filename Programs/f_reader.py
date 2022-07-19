@@ -140,7 +140,7 @@ def find_mask(nc_intr, FA, GFF):
 					beg, end, fwd, is_exon = feat
 					feat_seq = seq[beg:end]
 					if not is_exon:
-						feat_seq = feat_seq[:2] + "xxxxx" + feat_seq[-2:]
+						feat_seq = feat_seq[:2] + "nnnnn" + feat_seq[-2:]
 						feat_seq = feat_seq.lower()
 
 					if not fwd:

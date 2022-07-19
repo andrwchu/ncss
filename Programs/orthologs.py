@@ -54,4 +54,14 @@ nc_intr = orth_intrs(nc_intr)
 
 
 if __name__ == "__main__":
-	bl2seq_fasta(nc_intr, "../out/bl2seq/")
+	bl2seq_fasta(nc_intr, "../out/bl2seq2/")
+
+	'''
+	orths = {}
+	for intr in nc_intr:
+		if intr.orth_genes is not None:
+			for worm in intr.orth_genes:
+				if worm not in orths: orths[worm] = 0
+				orths[worm] += 1
+	print(orths)
+	'''
