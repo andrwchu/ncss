@@ -84,7 +84,6 @@ def read_gff(filename, feat_type, species, check_source, source=""):
 	yield (seqid, features)
 	fp.close()
 
-
 def read_exons(filename, introns):
 	# introns --> genes --> exons/introns locations
 	fp = None
@@ -129,6 +128,75 @@ def read_exons(filename, introns):
 
 def find_mask(nc_intr, FA, GFF):
 	features = read_exons(GFF, nc_intr)
+
+	masked = {}
+	for header, seq in read_fasta(FA):
+		seqid = header.split()[0]
+		if seqid in features:
+			for gene in features[seqid]:
+				gene_seq = []
+				for feat in features[seqid][gene]:
+					beg, end, fwd, is_exon = feat
+					feat_seq = seq[beg:end]
+					if not is_exon:
+						feat_seq = feat_seq[:2] + "nnnnn" + feat_seq[-2:]
+						feat_seq = feat_seq.lower()
+
+					if not fwd:
+						feat_seq = bio_lib.rev_comp(feat_seq)
+						gene_seq.insert(0, feat_seq)
+					else:
+						gene_seq.append(feat_seq)
+
+				if gene not in masked:
+					masked[gene] = ""
+				masked[gene] = "".join(gene_seq)
+				# print(gene, ''.join(gene_seq))
+
+	return masked  # {gene : mask_seq}
+
+def read_exons_orth(filename, gene_list):
+	# introns --> genes --> exons/introns locations
+	fp = None
+	if filename == "-":
+		fp = sys.stdin
+	elif filename.endswith(".gz"):
+		fp = gzip.open(filename, "rt")
+	else:
+		fp = open(filename)
+
+	seqid = None
+	features = {}
+	for line in fp.readlines():
+		if line[0] == "#":
+			continue
+
+		field = line.split()
+		if not field[0] == seqid:
+			seqid = field[0]
+
+		if field[1] == "WormBase" and field[2] in ["exon", "intron"]:
+			gene = field[8].replace("Parent=Transcript:", "").split(";")[0]
+			gene = gene.replace("Parent=Pseudogene:","")[:8]
+			print(gene)
+			if gene in gene_list:
+				feat = (
+					int(field[3]) - 1,  # start, with offset from GFF file
+					int(field[4]),  # end
+					field[6] == "+",  # strand direction, fwd = True,
+					field[2] == "exon",  # exons = True, intron = False
+				)
+				if seqid not in features:
+					features[seqid] = {}
+				if gene not in features[seqid]:
+					features[seqid][gene] = []
+				features[seqid][gene].append(feat)
+	fp.close()
+	return features
+
+
+def find_mask_orth(gene_list, FA, GFF):
+	features = read_exons_orth(GFF, gene_list)
 
 	masked = {}
 	for header, seq in read_fasta(FA):

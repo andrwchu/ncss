@@ -1,0 +1,53 @@
+overall
+('AGAG', '--AG') 1
+('GTTA', 'ATAG') 1
+('GTAT', 'GTAG') 1
+('GTTG', 'GTAG') 1
+('GTTG', 'GT-G') 1
+('GAAG', 'GCAG') 1
+('ATAC', 'ATAC') 2
+('ATAG', 'GTAG') 2
+('GTCG', 'GT-G') 2
+('GCAG', '--AG') 3
+('TTAG', 'GTAG') 3
+('GTGG', 'GTGG') 3
+('ATAA', 'ATAA') 4
+('ATAA', 'ATAC') 4
+('GTGG', 'GTAG') 4
+('GGAG', 'GGAG') 4
+('GAAG', 'GTAG') 4
+('GTGG', 'GT--') 4
+('GTAT', 'GTAT') 5
+('GCAG', 'GCAG') 105
+('GCAG', 'GTAG') 158
+Caenorhabditis_japonica
+('GTGG', 'GTAG') 1
+('GTAT', 'GTAT') 2
+('GCAG', 'GTAG') 23
+('GCAG', 'GCAG') 23
+Caenorhabditis_briggsae
+('GTTA', 'ATAG') 1
+('GTTG', 'GTAG') 1
+('GTTG', 'GT-G') 1
+('ATAC', 'ATAC') 2
+('GAAG', 'GTAG') 2
+('ATAG', 'GTAG') 2
+('GTCG', 'GT-G') 2
+('GTAT', 'GTAT') 3
+('GTGG', 'GTAG') 3
+('GTGG', 'GTGG') 3
+('ATAA', 'ATAA') 4
+('ATAA', 'ATAC') 4
+('GGAG', 'GGAG') 4
+('GCAG', 'GCAG') 57
+('GCAG', 'GTAG') 88
+Caenorhabditis_brenneri
+('AGAG', '--AG') 1
+('GTAT', 'GTAG') 1
+('GAAG', 'GCAG') 1
+('GAAG', 'GTAG') 2
+('GCAG', '--AG') 3
+('TTAG', 'GTAG') 3
+('GTGG', 'GT--') 4
+('GCAG', 'GCAG') 25
+('GCAG', 'GTAG') 47

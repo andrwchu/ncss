@@ -54,7 +54,7 @@ nc_intr = orth_intrs(nc_intr)
 
 
 if __name__ == "__main__":
-	bl2seq_fasta(nc_intr, "../out/bl2seq2/")
+	bl2seq_fasta(nc_intr, "../out/bl2seq4/")
 
 	'''
 	orths = {}

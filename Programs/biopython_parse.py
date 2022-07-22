@@ -1,11 +1,9 @@
 from Bio.Blast.Applications import NcbiblastnCommandline
-from Bio.Blast import NCBIXML
 import os
-import re
 
 
-def gen_file_dir(directory):
-	i = 0
+def gen_file_dir(directory, start, end):
+	i = start
 	while True:
 		num_i = str(i).rjust(4, "0")
 		celegans = f"{directory}{num_i}celegans.fa"
@@ -23,36 +21,18 @@ def gen_file_dir(directory):
 				else:
 					break
 				j += 1
-
 		else:
 			break
-		if i > 5:
+		i += 1
+		if i >= end:
 			break
 
-		i += 1
-
-
-def find_match(qry, sub):
-	indices = set()
-	regex = r"([\w]{2})(NNNNN)([\w]{2})"
-	matches_q = re.finditer(regex, qry)
-	for match in matches_q:
-		indices.add(match.span())
-
-	matches_s = re.finditer(regex, sub)
-	for match in matches_s:
-		indices.add(match.span())
-
-	pairs = set()
-	for i, j in indices:
-		ss1 = qry[i : i + 2] + qry[j - 2 : j]
-		ss2 = sub[i : i + 2] + sub[j - 2 : j]
-		pairs.add((ss1, ss2))
-	print(pairs)
-
-
-directory = "../out/bl2seq2/"
-for q, elegans_id, s, orth_id in gen_file_dir(directory):
+directory = "../out/bl2seq4/"
+beg = 0
+end = 1506
+matches = []
+for q, elegans_id, s, orth_id in gen_file_dir(directory, beg, end):
+	print(orth_id)
 	xml = directory + "xml/" + orth_id + ".xml"
 
 	cline = NcbiblastnCommandline(
@@ -62,60 +42,9 @@ for q, elegans_id, s, orth_id in gen_file_dir(directory):
 		penalty=-1,
 		gapopen=3,
 		gapextend=1,
+		perc_identity=50,
+		word_size=7,
 		out=xml,
 		outfmt=5,
 	)()
-
 	# calling cline() returns (stdout, stderr)
-	# print(cline)
-
-	result_handle = open(xml)
-	blast_records = NCBIXML.parse(result_handle)
-
-	E_VALUE_THRESH = 1
-	SEQ_DISPLAY = 75
-	for blast_record in blast_records:
-		for alignment in blast_record.alignments:
-			for hsp in alignment.hsps:
-				if hsp.expect < E_VALUE_THRESH:
-					(
-						e_num,
-						e_spec,
-						e_seqid,
-						e_beg,
-						e_end,
-						e_gene,
-						e_ss,
-					) = elegans_id.split(",")
-					(
-						o_num,
-						o_spec,
-						o_seqid,
-						o_beg,
-						o_end,
-						o_gene,
-						o_ss,
-					) = alignment.hit_id.split(",")
-
-					em_beg = int(e_beg) + hsp.query_start - 1
-					em_end = int(e_beg) + hsp.query_end
-					om_beg = int(o_beg) + hsp.sbjct_start - 1
-					om_end = int(o_beg) + hsp.sbjct_end
-
-					print("q: ", elegans_id)
-					print("s:  ", alignment.hit_id)
-					print("length:", hsp.align_length)
-					print("e value:", hsp.expect)
-					print("bits:", hsp.bits)
-
-					print(f"{em_beg}..{em_end}")
-					print(f"{om_beg}..{om_end}")
-
-					print(hsp.query[0:SEQ_DISPLAY] + "...")
-					print(hsp.match[0:SEQ_DISPLAY] + "...")
-					print(hsp.sbjct[0:SEQ_DISPLAY] + "...")
-
-					find_match(hsp.query, hsp.sbjct)
-					print()
-
-	result_handle.close()
